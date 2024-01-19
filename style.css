@@ -1,0 +1,43 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+
+}
+body{
+   background-color: rgb(28, 32, 23);
+
+}
+
+*{
+  text-align: center;
+  color: rgb(218, 21, 218);
+  font-family: 'Tilt Warp', sans-serif;
+}
+
+.note{
+  color: cornflowerblue;
+  font-size: 30px;
+}
+
+#id-selector-demo{
+  color: deeppink;
+  font-size: 25px;
+}
+
+li[value="2"]{
+  color: rgb(211, 198, 78);
+  font-size: 20px;
+}
+
+li[value="4"]{
+  color: rgb(31, 187, 57);
+  font-size: 20px;
+}
+
+li[value="5"]{
+  color: rgb(255, 161, 145);
+  font-size: 20px;
+}
+
+/* Write your CSS below, don't change the rules above. */
